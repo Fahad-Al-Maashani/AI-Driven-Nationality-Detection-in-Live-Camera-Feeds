@@ -18,7 +18,7 @@ install required libraries:
 pip install opencv-python numpy scikit-learn
 
 Clone this repository:
-git clone https://github.com/yourusername/face-detection-nationality-prediction.git
+git clone https://github.com/Fahad-Al-Maashani/nationality-face-prediction-model.git
 cd face-detection-nationality-prediction
 
 Usage:
