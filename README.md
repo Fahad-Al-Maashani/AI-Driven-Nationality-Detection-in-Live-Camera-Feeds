@@ -14,20 +14,19 @@ This project leverages OpenCV and machine learning to perform real-time face det
 Install the necessary libraries:
 
 ```sh
+install required libraries:
 pip install opencv-python numpy scikit-learn
-Clone this repository:
 
-sh
+Clone this repository:
 git clone https://github.com/yourusername/face-detection-nationality-prediction.git
 cd face-detection-nationality-prediction
-Usage
+
+Usage:
 Face Detection
 Run face_detection.py to detect faces using the live camera feed:
-
-sh
 python face_detection.py
-Nationality Prediction
-Run nationality_prediction.py to detect faces and predict nationality in real-time:
 
-sh
+Nationality Prediction:
+
+Run nationality_prediction.py to detect faces and predict nationality in real-time:
 python nationality_prediction.py
